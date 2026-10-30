@@ -1,4 +1,4 @@
-# Final_project
+# POS Tagging - Tamil
 
 Parts-of-speech (POS) tagging is a process of marking each word in a text corpus with its corresponding POS tag, such as noun, verb, adjective, adverb, etc. In Tamil, the process of POS tagging is similar to other languages.
 
